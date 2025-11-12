@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/mobility/static/css/main.18e11287.css",
+    "main.js": "/mobility/static/js/main.8a5e9813.js",
+    "static/js/879.cec08e57.chunk.js": "/mobility/static/js/879.cec08e57.chunk.js",
+    "static/js/453.42145387.chunk.js": "/mobility/static/js/453.42145387.chunk.js",
+    "service-worker.js": "/mobility/service-worker.js",
+    "index.html": "/mobility/index.html",
+    "main.18e11287.css.map": "/mobility/static/css/main.18e11287.css.map",
+    "main.8a5e9813.js.map": "/mobility/static/js/main.8a5e9813.js.map",
+    "879.cec08e57.chunk.js.map": "/mobility/static/js/879.cec08e57.chunk.js.map",
+    "453.42145387.chunk.js.map": "/mobility/static/js/453.42145387.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18e11287.css",
+    "static/js/main.8a5e9813.js"
+  ]
+}
